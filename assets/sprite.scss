@@ -1,0 +1,114 @@
+%svg-common {
+	background: url("../assets/icons/svg/spriteSVG.svg") no-repeat;
+}
+
+.svg-Logo {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-Logo-box {
+	width: 52px;
+	height: 29.56px;
+}
+
+.svg-arrow {
+	@extend %svg-common;
+	background-position: 61.1764705882353% 49.523809523809526%;
+}
+
+.svg-arrow-box {
+	width: 30px;
+	height: 29px;
+}
+
+.svg-arrow-2 {
+	@extend %svg-common;
+	background-position: 99.36305732484077% 48.35164835164835%;
+}
+
+.svg-arrow-2-box {
+	width: 43px;
+	height: 43px;
+}
+
+.svg-arrow-button {
+	@extend %svg-common;
+	background-position: 99.36305732484077% 95.6043956043956%;
+}
+
+.svg-arrow-button-box {
+	width: 43px;
+	height: 43px;
+}
+
+.svg-learning-1 {
+	@extend %svg-common;
+	background-position: 0 36.048780487804876%;
+}
+
+.svg-learning-1-box {
+	width: 52px;
+	height: 52px;
+}
+
+.svg-learning-2 {
+	@extend %svg-common;
+	background-position: 35.13513513513514% 0;
+}
+
+.svg-learning-2-box {
+	width: 52px;
+	height: 52px;
+}
+
+.svg-learning-3 {
+	@extend %svg-common;
+	background-position: 70.27027027027027% 0;
+}
+
+.svg-learning-3-box {
+	width: 52px;
+	height: 52px;
+}
+
+.svg-learning-4 {
+	@extend %svg-common;
+	background-position: 0 99.46341463414635%;
+}
+
+.svg-learning-4-box {
+	width: 52px;
+	height: 52px;
+}
+
+.svg-mouse {
+	@extend %svg-common;
+	background-position: 31.532350979322054% 99.46341463414635%;
+}
+
+.svg-mouse-box {
+	width: 35.09px;
+	height: 52px;
+}
+
+.svg-phone {
+	@extend %svg-common;
+	background-position: 100% 0;
+}
+
+.svg-phone-box {
+	width: 44px;
+	height: 44px;
+}
+
+.svg-spent {
+	@extend %svg-common;
+	background-position: 58.58728557013118% 99.46341463414635%;
+}
+
+.svg-spent-box {
+	width: 51.35px;
+	height: 52px;
+}
+
